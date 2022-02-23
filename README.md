@@ -1,6 +1,6 @@
 # Note-Taker
 
-Application deployed on Heroku:
+Application deployed on [Heroku](https://stark-brushlands-05228.herokuapp.com/)
 
 ## Purpose
 
